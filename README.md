@@ -347,17 +347,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
-![EX-07](https://github.com/Udhayasankaran04/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393933/240b887d-4ee0-4671-abef-4d66abc9a119)
-![EX-07(1)](https://github.com/Udhayasankaran04/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393933/a7597ee6-a555-43c1-80b9-c46490ce5210)
-![EX-07(3A)](https://github.com/Udhayasankaran04/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393933/c2efa3e1-43ef-4f11-8406-75a49a348295)
-![EX-07(2A)](https://github.com/Udhayasankaran04/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393933/10577c86-12c7-4126-8cc3-00d957fbe252)
-![EX-07(1A)](https://github.com/Udhayasankaran04/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393933/1f524a4a-cdb0-49f4-a84c-26eaf73c2f6b)
+![WhatsApp Image 2024-09-27 at 14 37 55_7a4929c5](https://github.com/user-attachments/assets/dc75ef00-dd26-44a0-87fd-6833f6d23fcb)
+![500](https://github.com/user-attachments/assets/0865f2b2-2374-41cc-8104-28a9ba6203b4)
+![700](https://github.com/user-attachments/assets/431ee7fe-dced-4e83-b404-9516f0dffad2)
+![900](https://github.com/user-attachments/assets/479504e4-29e2-4df7-9dd0-dfb65e20b667)
 
-  
  
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![EX-07(pdf out)](https://github.com/Udhayasankaran04/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119393933/1aeb4c94-2385-458f-8f45-3e4a10b2ec61)
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+![WhatsApp Image 2024-09-27 at 14 38 24_826e5bf9](https://github.com/user-attachments/assets/bda7e1b2-f0aa-4e91-8b6d-755f7de462e4)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
