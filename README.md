@@ -184,9 +184,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ![WhatsApp Image 2024-09-27 at 14 37 55_7a4929c5](https://github.com/user-attachments/assets/dc75ef00-dd26-44a0-87fd-6833f6d23fcb)
- ![500](https://github.com/user-attachments/assets/0865f2b2-2374-41cc-8104-28a9ba6203b4)
- ![700](https://github.com/user-attachments/assets/431ee7fe-dced-4e83-b404-9516f0dffad2)
- ![900](https://github.com/user-attachments/assets/479504e4-29e2-4df7-9dd0-dfb65e20b667)
+![500 pulse](https://github.com/user-attachments/assets/8a7e924d-880b-4b1a-b442-c9149c3c66cb)
+![700 pulse](https://github.com/user-attachments/assets/b3dc3ec0-7d0a-4cfa-b6c1-4ffe74fc8eea)
+![900 pulse](https://github.com/user-attachments/assets/9d83b084-f45f-4635-a566-2c8e93bfe6db)
+
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
@@ -198,23 +199,29 @@ FOR PULSE AT 500
 
 TON = 2ms
 TOFF= 2ms
-TOTAL TIME = 4ms
-FREQUENCY = 1/4=250Hz
+TOTAL TIME = 4 
+FREQUENCY = 1/(TOTAL TIME)
+= 1/(410^-3)
+= 250Hz
 
 FOR PULSE AT 700
 
-TON = 3ms
-TOFF=1ms
-TOTAL TIME = 4ms
-FREQUENCY = 1/4=250Hz
+TON =  2.17ms
+TOFF= 0.93ms
+TOTAL TIME = 3.1 
+FREQUENCY = 1/(TOTAL TIME)
+= 1/(3.110^-3)
+= 322.58Hz
 
 
 FOR PULSE AT 900
 
-TON = 3.5ms
-TOFF= 0.5ms
-TOTAL TIME = 4ms
-FREQUENCY = 1/4=250Hz 
+TON = 2.88ms
+TOFF= 0.32ms
+TOTAL TIME = 3.2 
+FREQUENCY = 1/(TOTAL TIME)
+= 1/(3.210^-30
+= 312.5Hz
 
 
 ## Result :
